@@ -54,7 +54,7 @@
         "heading": {
           "type": "heading",
           "settings": { 
-            "heading": "<p>Main<\/p>",
+            "heading": "<p>Main heading<\/p>",
             "heading_size": "h1"
           }
         },
