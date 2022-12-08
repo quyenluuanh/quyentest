@@ -54,7 +54,7 @@
         "heading": {
           "type": "heading",
           "settings": { 
-            "heading": "<p>Quyen<\/p>",
+            "heading": "<p>Main<\/p>",
             "heading_size": "h1"
           }
         },
