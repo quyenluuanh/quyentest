@@ -53,8 +53,8 @@
       "blocks": {
         "heading": {
           "type": "heading",
-          "settings": {
-            "heading": "<p>Quyen Brand Update 2nd Time<\/p>",
+          "settings": { 
+            "heading": "<p>Quyen Brand Update 3th Time<\/p>",
             "heading_size": "h1"
           }
         },
